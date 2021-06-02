@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">inputcontrols</string>
+    <string-array name="branch">
+        <item>-----Select Your branch-----</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>IT</item>
+        <item>Civil</item>
+        <item>Mech</item>
+    </string-array>
+</resources>
